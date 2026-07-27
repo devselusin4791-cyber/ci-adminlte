@@ -5,8 +5,8 @@
   <!--end::To the end-->
   <!--begin::Copyright-->
   <strong>
-    Copyright &copy; 2014-2026&nbsp;
-    <a href="https://adminlte.io" class="text-decoration-none">AdminLTE.io</a>.
+    Copyright &copy; <?= date('Y') ?>&nbsp;
+    <a href="https://selarassolusindo.com" class="text-decoration-none">selusin :: Selaras Solusindo</a>.
   </strong>
   All rights reserved.
   <!--end::Copyright-->
