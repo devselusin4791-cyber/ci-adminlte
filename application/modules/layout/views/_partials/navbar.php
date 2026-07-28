@@ -302,7 +302,7 @@
   <div class="sidebar-wrapper">
     <nav class="mt-2">
       <!-- Docs CTA -->
-      <div class="px-3 pb-2">
+      <!-- <div class="px-3 pb-2">
         <a
           href="./docs/introduction.html"
           class="btn btn-sm btn-outline-light w-100 d-flex align-items-center justify-content-center gap-2"
@@ -310,7 +310,7 @@
           <i class="bi bi-book" aria-hidden="true"></i>
           View documentation
         </a>
-      </div>
+      </div> -->
 
       <!--begin::Sidebar Menu-->
       <ul
@@ -321,7 +321,7 @@
         data-accordion="false"
         id="navigation"
       >
-        <li class="nav-item menu-open">
+        <!-- <li class="nav-item menu-open">
           <a href="#" class="nav-link active">
             <i class="nav-icon bi bi-speedometer"></i>
             <p>
@@ -349,12 +349,111 @@
               </a>
             </li>
           </ul>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a href="./generate/theme.html" class="nav-link">
-            <i class="nav-icon bi bi-palette"></i>
-            <p>Theme Generate</p>
+            <i class="nav-icon bi bi-speedometer"></i>
+            <p>Beranda</p>
           </a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <i class="nav-icon bi bi-box-seam-fill"></i>
+            <p>
+              Master
+              <i class="nav-arrow bi bi-chevron-right"></i>
+            </p>
+          </a>
+          <ul class="nav nav-treeview">
+            <li class="nav-item">
+              <a href="./widgets/small-box.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Perusahaan</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./widgets/info-box.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Pengguna</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./widgets/cards.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Akun</p>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <i class="nav-icon bi bi-pencil-square"></i>
+            <p>
+              Transaksi
+              <i class="nav-arrow bi bi-chevron-right"></i>
+            </p>
+          </a>
+          <ul class="nav nav-treeview">
+            <li class="nav-item">
+              <a href="./forms/elements.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Jurnal Umum</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./forms/layout.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Jurnal Kas</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./forms/validation.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Jurnal Bank</p>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <i class="nav-icon bi bi-file-earmark-text"></i>
+            <p>
+              Laporan
+              <i class="nav-arrow bi bi-chevron-right"></i>
+            </p>
+          </a>
+          <ul class="nav nav-treeview">
+            <li class="nav-item">
+              <a href="./pages/profile.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Jurnal</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./pages/settings.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Buku Besar</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./pages/invoice.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Laba/Rugi</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./pages/calendar.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Perubahan Modal</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="./pages/kanban.html" class="nav-link">
+                <i class="nav-icon bi bi-circle"></i>
+                <p>Neraca</p>
+              </a>
+            </li>
+          </ul>
         </li>
 
       </ul>
