@@ -22,10 +22,10 @@
                     <h3 class="page-title"><?php if(isset($pagetitle)) echo $pagetitle; ?></h3>
                   </div>
                   <div class="col-sm-6">
-                    <ol class="breadcrumb float-sm-end">
+                    <!-- <ol class="breadcrumb float-sm-end">
                       <li class="breadcrumb-item"><a href="<?= site_url() ?>">sia.selusin</a></li>
                       <li class="breadcrumb-item active" aria-current="page">Beranda</li>
-                    </ol>
+                    </ol> -->
                   </div>
                 </div>
                 <!--end::Row-->
