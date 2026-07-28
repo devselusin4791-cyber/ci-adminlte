@@ -351,7 +351,7 @@
           </ul>
         </li> -->
         <li class="nav-item">
-          <a href="./generate/theme.html" class="nav-link">
+          <a href="<?= site_url() ?>" class="nav-link">
             <i class="nav-icon bi bi-speedometer"></i>
             <p>Beranda</p>
           </a>
