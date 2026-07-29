@@ -76,7 +76,7 @@
             <p>Beranda</p>
           </a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item <?= isset($menuopen) ? 'menuopen' : '' ?>">
           <a href="#" class="nav-link">
             <!-- <i class="nav-icon bi bi-box-seam-fill"></i> -->
             <i class="nav-icon bi bi-book"></i>
@@ -87,7 +87,7 @@
           </a>
           <ul class="nav nav-treeview">
             <li class="nav-item">
-              <a href="./widgets/small-box.html" class="nav-link">
+              <a href="<?= site_url() ?>perusahaan" class="nav-link">
                 <i class="nav-icon bi bi-circle"></i>
                 <p>Perusahaan</p>
               </a>
@@ -99,7 +99,7 @@
               </a>
             </li>
             <li class="nav-item">
-              <a href="./widgets/cards.html" class="nav-link">
+              <a href="<?= site_url() ?>akun" class="nav-link">
                 <i class="nav-icon bi bi-circle"></i>
                 <p>Akun</p>
               </a>
