@@ -20,7 +20,7 @@
                   <div class="col-sm-6">
                     <!-- <h3 class="mb-0">&nbsp;</h3> -->
                     <!-- <div class="page-pretitle"><?php if(isset($pretitle)) echo $pretitle; ?></div> -->
-                    <h3 class="page-title"><?php if(isset($pagetitle)) echo $pagetitle; ?></h3>
+                    <h4 class="page-title"><?php if(isset($pagetitle)) echo $pagetitle; ?></h4>
                   </div>
                   <div class="col-sm-6">
                     <!-- <ol class="breadcrumb float-sm-end">
