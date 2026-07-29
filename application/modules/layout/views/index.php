@@ -7,7 +7,7 @@
       <!--begin::App Wrapper-->
       <div class="app-wrapper">
           <?php $this->load->view('_partials/navbar'); // Panggil potongan navbar ?>
-          <?php $this->load->view('_partials/sidebar'); // Panggil potongan navbar ?>
+          <?php $this->load->view('_partials/sidebar'); // Panggil potongan sidebar ?>
 
           <!--begin::App Main-->
           <main class="app-main">
