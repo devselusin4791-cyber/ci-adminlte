@@ -76,7 +76,7 @@
             <p>Beranda</p>
           </a>
         </li>
-        <li class="nav-item <?= isset($menuopen) ? 'menuopen' : '' ?>">
+        <li class="nav-item <?= isset($master_menu_open) ? 'menu-open' : '' ?>">
           <a href="#" class="nav-link">
             <!-- <i class="nav-icon bi bi-box-seam-fill"></i> -->
             <i class="nav-icon bi bi-book"></i>
@@ -99,7 +99,7 @@
               </a>
             </li>
             <li class="nav-item">
-              <a href="<?= site_url() ?>akun" class="nav-link">
+              <a href="<?= site_url() ?>akun" class="nav-link <?= isset($master_akun) ? 'active' : '' ?>">
                 <i class="nav-icon bi bi-circle"></i>
                 <p>Akun</p>
               </a>

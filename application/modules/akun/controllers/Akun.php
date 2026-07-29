@@ -10,6 +10,8 @@ class Akun extends MY_Controller {
         $this->data['title']     = "Akun";
         $this->data['pretitle']  = "Daftar";
         $this->data['pagetitle'] = "Akun";
+        $this->data['master_menu_open'] = 1;
+        $this->data['master_akun'] = 1;
     }
 
     public function index() {
