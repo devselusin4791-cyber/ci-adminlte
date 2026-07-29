@@ -9,6 +9,7 @@ class Beranda extends MY_Controller {
         $this->data['title']     = "sia.selusin :: Beranda";
         $this->data['pretitle']  = "&nbsp;";
         $this->data['pagetitle'] = "Beranda";
+        $this->data['beranda'] = 1;
     }
 
     public function index()
