@@ -71,8 +71,7 @@
             <!-- <h1 class="h3 mb-3">Oops! Page not found.</h1> -->
             <h1 class="h3 mb-3">Page not found.</h1>
             <p class="text-secondary mb-4">
-              We could not find the page you were looking for. Meanwhile, you may return to the
-              dashboard or try searching for what you need.
+              Kami tidak dapat menemukan halaman yang Anda cari. Sementara itu, Anda dapat kembali ke beranda atau mencoba mencari apa yang Anda butuhkan.
             </p>
             <form class="row g-2 justify-content-center mb-4" role="search">
               <div class="col-sm-8">
