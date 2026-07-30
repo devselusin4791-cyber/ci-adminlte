@@ -35,7 +35,7 @@ http://localhost/ci-adminlte/harviacode
 
 ## Screenshot
 
-![Master - Akun](Screenshot 2026-07-30 095754.png)
+![Master - Akun](Screenshot-2026-07-30-095754.png)
 
 ## Lisensi
 
