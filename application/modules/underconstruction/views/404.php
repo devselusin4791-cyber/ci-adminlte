@@ -69,9 +69,9 @@
             <!-- <div class="display-1 fw-bold text-primary lh-1 mb-3">404</div> -->
             <div class="display-1 fw-bold text-primary lh-1 mb-3">Oops!</div>
             <!-- <h1 class="h3 mb-3">Oops! Page not found.</h1> -->
-            <h1 class="h3 mb-3">Page not found.</h1>
+            <h1 class="h3 mb-3">Modul tidak ditemukan.</h1>
             <p class="text-secondary mb-4">
-              Kami tidak dapat menemukan halaman yang Anda cari. Sementara itu, Anda dapat kembali ke beranda atau mencoba mencari apa yang Anda butuhkan.
+              Kami tidak dapat menemukan modul yang Anda cari. Sementara itu, Anda dapat kembali ke beranda atau mencoba mencari apa yang Anda butuhkan.
             </p>
             <form class="row g-2 justify-content-center mb-4" role="search">
               <div class="col-sm-8">
