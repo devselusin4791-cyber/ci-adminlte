@@ -82,13 +82,13 @@
                   <input
                     type="search"
                     class="form-control"
-                    placeholder="Search…"
+                    placeholder="Cari…"
                     aria-label="Search"
                   />
                 </div>
               </div>
               <div class="col-sm-auto">
-                <button class="btn btn-primary w-100" type="submit">Search</button>
+                <button class="btn btn-primary w-100" type="submit">Cari</button>
               </div>
             </form>
             <a href="<?= site_url() ?>" class="btn btn-outline-secondary">
