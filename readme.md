@@ -19,7 +19,6 @@ cd ci-adminlte
 
 ## Konfigurasi
 
-- Edit `application/config/config.php`
 - Edit `application/config/database.php`
 
 ## Harviacode
